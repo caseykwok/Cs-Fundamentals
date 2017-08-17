@@ -14,8 +14,8 @@ class Stack {
 
 	// Removes and returns the last element from the stack
 	// Time Complexity: O(1)
-	pop(element) {
-		this.items.pop(element);
+	pop() {
+		this.items.pop();
 	}
 
 	// Returns the last element from the stack
