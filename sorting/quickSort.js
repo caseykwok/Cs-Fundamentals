@@ -1,3 +1,5 @@
+// Average time complexity of O(n*log(n))
+
 // Case 1 - Small Set
 var arraySize = 40;
 
